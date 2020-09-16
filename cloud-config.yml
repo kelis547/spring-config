@@ -1,2 +1,2 @@
-server:
-  port: 1
+config:
+  info: 1
